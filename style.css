@@ -89,6 +89,7 @@ form {
 
 .form-bottom button {
   background-color: #af5731;
+  color: rgba(255, 255, 255, 0.7);
   font-size: 1rem;
   font-weight: bold;
   padding: 0.75rem 1.25rem;
