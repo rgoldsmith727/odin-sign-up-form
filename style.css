@@ -87,5 +87,24 @@ form {
   flex-direction: column;
 }
 
+.form-bottom button {
+  background-color: #af5731;
+  font-size: 1rem;
+  font-weight: bold;
+  padding: 0.75rem 1.25rem;
+  border: none;
+  border-radius: 10px;
+  display: inline-block;
+  box-shadow: 7px 8px 13px 3px #2D2D2D;
+}
+
+.form-bottom button:hover {
+  background-color: #a6532e;
+}
+
+.form-bottom button:active {
+  transform: scale(0.95);
+}
+
 
 
