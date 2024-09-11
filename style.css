@@ -107,5 +107,14 @@ form {
   transform: scale(0.95);
 }
 
+.form-bottom p {
+  font-size: 0.75rem;
+  padding-top: 1rem;
+}
+
+.form-bottom p a {
+  text-decoration: none;
+  color: #A6535e;
+}
 
 
