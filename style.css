@@ -1,0 +1,41 @@
+body {
+  padding: 0;
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  gap: 2rem;
+}
+
+
+.logo-background img{
+  width: 35vw;
+  height: 100vh;
+  position: relative;
+}
+
+.logo-image {
+  position: absolute;
+  top: 25%; 
+  width: 35vw;
+
+  font-family: 'Bebas Neue', sans-serif;
+
+  background-color: rgba(0, 0, 0, 0.3);
+  color: white;
+  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.logo-image img {
+  max-height: 15vh;
+  max-width: 5vw;
+}
+
+.logo-image h1 {
+  font-size: 4rem;
+  letter-spacing: 0.5rem;
+}
+
+
