@@ -59,6 +59,16 @@ form {
   flex-direction: column;
   align-items: flex-start;
   padding: 2rem;
+  padding-top: 6rem;
+}
+
+.form-top p {
+  font-weight: bold;
+  margin: 0.1rem 0;
+}
+
+.form-top p:last-child {
+  margin-top: 1.5rem;
 }
 
 .form-middle {
