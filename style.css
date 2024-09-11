@@ -59,7 +59,7 @@ form {
   flex-direction: column;
   align-items: flex-start;
   padding: 2rem;
-  padding-top: 6rem;
+  /* padding-top: 6rem; */
 }
 
 .form-top p {
